@@ -2,11 +2,9 @@ Ex. No : 1
 
 IMPLEMENTATION OF SYMBOL TABLE
 
-NAME : Naveen kumar.R
+NAME : M THEJESWARAN
 
-Register Number : 212223230139
-
-Date : 09/10/2024
+Register Number : 212223240168
 
 AIM:
 
